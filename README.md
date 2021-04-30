@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Vadim
+- 👋 Hi, I’m Vadim,
+
 - 👀 I’m  Web-Developer.
 
 
